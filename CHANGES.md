@@ -10,6 +10,7 @@ Fixed Issues:
 * [#2107](https://github.com/ckeditor/ckeditor-dev/issues/2107): Fixed: [Autocomplete](https://ckeditor.com/cke4/addon/autocomplete): holding and releasing mouse button is not inserting autocomplete item.
 * [#2167](https://github.com/ckeditor/ckeditor-dev/issues/2167): Fixed: Matching in [Emoji](https://ckeditor.com/cke4/addon/emoji) plugin is not case insensitive.
 * [#966](https://github.com/ckeditor/ckeditor-dev/issues/966): Fixed: Executing [`editor.destroy()`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#destroy) during [file upload](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_fileTools_uploadWidgetDefinition.html#onUploading) throws error. Thanks to [Maksim Makarevich](https://github.com/MaksimMakarevich)!
+* [#1816](https://github.com/ckeditor/ckeditor-dev/issues/1816): Fixed: Table breaks when <kbd>Enter</kbd> was pressed over tableselection.
 
 ## CKEditor 4.10
 
