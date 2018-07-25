@@ -16,6 +16,7 @@ Fixed Issues:
 * [#1719](https://github.com/ckeditor/ckeditor-dev/issues/1719): Fixed: <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>A</kbd> focuses inline editor if starting and ending with a list. Thanks to [theNailz](https://github.com/theNailz)!
 * [#1046](https://github.com/ckeditor/ckeditor-dev/issues/1046): Fixed: Subsequent new links do not include `id` attribute. Thanks to [Nathan Samson](https://github.com/nathansamson)!
 * [#2195](https://github.com/ckeditor/ckeditor-dev/issues/2195): Fixed: [Emoji](https://ckeditor.com/cke4/addon/emoji) shows suggestion box when colon preceded with other character than white space.
+* [#2254](https://github.com/ckeditor/ckeditor-dev/issues/2254): Fixed: [Image](https://ckeditor.com/cke4/addon/image) ratio locking is too precise for resized images. Thanks to [Jonathan Gilbert](https://github.com/logiclrd)!
 
 ## CKEditor 4.10
 
