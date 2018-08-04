@@ -15,6 +15,8 @@ Fixed Issues:
 * [#966](https://github.com/ckeditor/ckeditor-dev/issues/966): Fixed: Executing [`editor.destroy()`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#destroy) during [file upload](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_fileTools_uploadWidgetDefinition.html#onUploading) throws error. Thanks to [Maksim Makarevich](https://github.com/MaksimMakarevich)!
 * [#1719](https://github.com/ckeditor/ckeditor-dev/issues/1719): Fixed: <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>A</kbd> focuses inline editor if starting and ending with a list. Thanks to [theNailz](https://github.com/theNailz)!
 * [#2195](https://github.com/ckeditor/ckeditor-dev/issues/2195): Fixed: [Emoji](https://ckeditor.com/cke4/addon/emoji) shows suggestion box when colon preceded with other character than white space.
+* [#1184](https://github.com/ckeditor/ckeditor-dev/issues/1184): [IE8-11] Fixed: Copying and pasting data in [read-only mode](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#property-readOnly) throws an error.
+* [#1916](https://github.com/ckeditor/ckeditor-dev/issues/1916): [IE9-11] Fixed: Pressing <kbd>Delete</kbd> key in [read-only mode](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#property-readOnly) throws an error.
 
 ## CKEditor 4.10
 
